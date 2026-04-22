@@ -13,7 +13,7 @@ O modo **Ask** é para fazer perguntas e entender coisas, **sem alterar seu cód
 
 O Copiloto lê o contexto do projeto (arquivos abertos, seleção, etc.) e responde como um **“mentor técnico”**, explicando o que está acontecendo e por quê. **Ele não modifica nada** — só analisa e explica.
 
-📄 **Prompt:** [prompts/prompt-ask.md](prompts/prompt-ask.md)
+📄 **Prompt:** [prompt-agent.txt.txt](prompt-ask.txt.txt)
 
 ---
 
@@ -27,7 +27,7 @@ Ele:
 
 Isso é muito útil para **mudanças grandes**, **novas features** ou quando você quer **validar a abordagem** antes de mexer no código.
 
-📄 **Prompt:** [prompts/prompt-plan.md](prompts/prompt-plan.md)
+📄 **Prompt:** [prompt-plan.txt.txt](prompt-plan.txt.txt)
 
 ---
 
@@ -36,7 +36,7 @@ O **Agent** é o modo mais “autônomo”. Ele pode **navegar pelo projeto**, *
 
 Você dá um objetivo (ex.: “implemente login com JWT”) e ele decide o que precisa ser feito em vários arquivos para chegar lá.
 
-📄 **Prompt:** [prompts/prompt-agent.md](prompts/prompt-agent.md)
+📄 **Prompt:** [prompt-agent.txt.txt](prompt-agent.txt.txt)
 
 ---
 
@@ -51,7 +51,7 @@ Em vez de simplesmente explicar ou executar, ele:
 
 Funciona quase como um **tutor particular**.
 
-📄 **Prompt:** [prompts/prompt-study.md](prompts/prompt-study.md)
+📄 **Prompt:** [prompt-study.txt.txt](prompt-study.txt.txt)
 
 ---
 
